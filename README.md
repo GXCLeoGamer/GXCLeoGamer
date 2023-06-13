@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GXCLeoGamer
+- 👋 Hi, I’m @SweatEater
 - 👀 I’m interested in lua, html, luau, js, python
 - 🌱 I’m currently learning nothing
 - 📫 How to reach me you cant
